@@ -7,7 +7,7 @@ Designed with a clean user interface and optimized for mobile-first use.
 
 ## 📸 Preview
 
-![Vite Calculator Preview](./vite-calculator-preview.png)
+![Vite Calculator Preview](./src/assets/preview.jpg)
 
 ---
 
